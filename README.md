@@ -3,7 +3,7 @@
 For years, fraud has been a major issue in sectors like banking, medical, insurance, and many others. Due to the increase in online transactions through different payment options, such as credit/debit cards, PhonePe, Gpay, Paytm, etc., fraudulent activities have also increased. Moreover, fraudsters or criminals have become very skilled in finding escapes so that they can loot more. Since no system is perfect and there is always a loophole them, it has become a challenging task to make a secure system for authentication and preventing customers from fraud. So, Fraud detection algorithms are very useful for preventing frauds.
 
 Here comes Machine Learning which can be used for creating a fraud detection algorithm that helps in solving these real-world problems.
-<img src="Images/fraud_cartoon.PNG">
+<img src="Images\fraud_cartoon.PNG">
 
 # Different Approaches
 
@@ -23,7 +23,7 @@ Unsupervised learning models are built to detect unusual behavior in transaction
 # Self Organizing Maps (SOM)
 
 Core purpose of SOM is to reduce dimentionality. The example below shows a complex data set consisting of a massive amount of columns and dimensions and demonstrates how that data set's dimensionality can be reduced.
-<img src="Images/som.PNG">
+<img src="Images\som.PNG">
 
 So, instead of having to deal with hundreds of rows and columns (because who would want that!), the data is processed into a simplified map; that's what we call a self-organizing map. The map provides you with a two-dimensional representation of the exact same data set; one that is easier to read.
 
