@@ -34,4 +34,4 @@ We don't need the list of fraudsters to train the model, as SOM is an unsupervis
 
 # Result
 
-We were able to identify 104 customers whose transaction patterns are different from others. These users and their transactions can be sent to relevant department for further investigation.
+104 customers were identified whose transaction patterns are different from others. These users and their transactions can be sent to relevant department for further investigation.
